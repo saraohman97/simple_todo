@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "buy oranges"
+    },
+    {
+      "id": "ad40f9b5-4660-4a0b-9c39-757a96cc69ee",
+      "text": "cuddle"
+    },
+    {
+      "id": "c11bdb38-570d-4b01-8357-ce3dba1b6a45",
+      "text": "bath"
+    },
+    {
+      "id": "0f2f8eef-2557-492e-8b28-460e890b4e54",
+      "text": "clean"
+    }
+  ]
+}
